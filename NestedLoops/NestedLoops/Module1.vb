@@ -6,7 +6,7 @@
 
         For i = 65 To 70
             Console.WriteLine("Appendix " & Chr(i))
-            For j = 1 To 25
+            For j = 1 To 5
                 Console.WriteLine("Section " & CStr(j))
             Next
         Next
